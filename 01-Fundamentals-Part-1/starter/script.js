@@ -27,7 +27,7 @@ console.log(myFirstJob);
 */
 
 /*
-// Data types
+// Data types and homework
 let javascriptIsFun = true;
 console.log(javascriptIsFun);
 
@@ -48,3 +48,18 @@ console.log(typeof year);
 
 console.log(typeof null);
 */
+
+// Practice assignment Variable name and Data type
+
+// let country = 'Uzbekistan';
+// let continent = 'Central Asia';
+// let population = 33700000;
+
+// let isIsland = false; 
+// let language;
+
+// console.log(typeof country);
+// console.log(typeof continent);
+// console.log(typeof population);
+// console.log(typeof isIsland);
+// console.log(typeof language);
