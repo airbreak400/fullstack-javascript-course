@@ -1,11 +1,11 @@
 // Practice assignment Variable name and Data type
 
-let country = 'Uzbekistan';
-let continent = 'Central Asia';
+const country = 'Uzbekistan';
+const continent = 'Central Asia';
 let population = 33700000;
 
-let isIsland = false; 
-let language;
+const isIsland = false; 
+const language = 'Uzbek';
 
 console.log(typeof country);
 console.log(typeof continent);
