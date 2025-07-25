@@ -1,5 +1,7 @@
+/*
 // Practice assignment Variable name and Data type
 const country = 'Uzbekistan';
+const country2 = 'Finland'
 const continent = 'Central Asia';
 let population = 33700000;
 let averagePopulation = 33000000;
@@ -8,6 +10,21 @@ const isIsland = false;
 const language = 'Uzbek';
 console.log(country + " " + "is in " + continent + ", and its " + population + " " + "people speak"+ " " + language);
 const description = `${country} is in ${continent}, and its ${population} people speak ${language} `;
+
+// if else practice assignment
+if(population >= averagePopulation) {
+    console.log(`${country}'s population is above average`);
+} else {
+    console.log(`${country}'s population is below average`);
+}
+
+if(finlandPopulation > averagePopulation) {
+    console.log(`${country2}'s population is above average`);
+} else {
+    const avarage = averagePopulation - finlandPopulation;
+    console.log(`${country2}'s population is ${avarage} million below average`);
+}
+
 console.log(description);
 console.log(population * 2);
 console.log(population / 2);
@@ -41,3 +58,4 @@ console.log("Mark BMI is:", bmi2);
 
 let bmi3 = johnWeight / (johnHeight * johnHeight);
 console.log("John BMI is:", bmi3);
+*/
